@@ -1,11 +1,8 @@
-.slider {
-  width: auto;
-  height: auto;
-  display: flex;
-  overflow-x: auto;
+/* Change the backgroud color of the navbar */\
+.bg-mario-nav{
+  background-color:  #fa26a0;
 }
-.slide {
-  width: auto;
-  flex-shrink: 0;
-  height: 100%;
+
+body{
+  background-color: #000;
 }
